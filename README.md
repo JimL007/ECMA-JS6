@@ -1,0 +1,2 @@
+# ECMA-JS6
+关于ECMA-JS6的初学笔记
